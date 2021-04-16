@@ -2,7 +2,7 @@
 Linux xxd Utility Implementation using Python
 
 # What is xxd in Linux?
-xxd is a Linux command that creates a hex dump of a given file or standard input. hex dump is a hexadecimal view of data. 
+xxd is a Linux commandline utility that creates a hex dump of a given file or standard input. hex dump is a hexadecimal view of data. 
 
 # Usage
 
